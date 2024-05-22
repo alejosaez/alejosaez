@@ -17,6 +17,6 @@ Soy un desarrollador full stack con una especialización avanzada en el front-en
 
 ## Trabajo Actual
 
-**Actualmente, estoy trabajando en un proyecto de _React Native_ como **mobile developer**, mentoriado por un **desarrollador senior de React Native**.  
+Actualmente, estoy trabajando en un proyecto de _React Native_ como **mobile developer**, mentoriado por un **desarrollador senior de React Native**.  
 Mi objetivo es ganar experiencia en **desarrollo mobile** y adoptar **buenas prácticas en código limpio**.
 
