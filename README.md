@@ -12,7 +12,13 @@ Soy un desarrollador full stack con una especialización avanzada en el front-en
 
 - **Back-end**: ![Express](https://img.shields.io/badge/-Express-lightgrey) ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
   
-- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-orange) 
+- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-orange)
+
+## Proyectos descados 
+- **E-commerce**
+ (https://github.com/alejosaez/e-commerce.git)
+- **Proyecto de turnos centro medico**
+(https://github.com/alejosaez/proyecturno.git)
 
 
 ## Trabajo Actual
