@@ -10,7 +10,7 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia, trabajando e
 
 ## Habilidades
 - **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- **Frameworks y Librerías**: ![React](https://img.shields.io/badge/-React-blue) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![NestJS](https://img.shields.io/badge/-NestJS-red)
+- **Frameworks y Librerías**: ![React](https://img.shields.io/badge/-React-blue) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![NestJS](https://img.shields.io/badge/-NestJS-red) ![React Native](https://img.shields.io/badge/-React%20Native-blue)
 - **Back-end**: ![Express](https://img.shields.io/badge/-Express-lightgrey) ![TypeORM](https://img.shields.io/badge/-TypeORM-orange) ![Sequelize](https://img.shields.io/badge/-Sequelize-blue) ![GraphQL](https://img.shields.io/badge/-GraphQL-pink)
 - **Herramientas**: ![Git](https://img.shields.io/badge/-Git-orange) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)
 
