@@ -4,7 +4,7 @@
 
 
 ### Sobre Mí
-Soy un desarrollador full stack con más de 2 años de experiencia, trabajando en múltiples lenguajes y proyectos. Tengo conocimientos avanzados en la configuración y funcionamiento de GitHub Actions, así como experiencia en testing con Jest y en pruebas E2E con Cypress y TypeScript. Me apasiona buscar y resolver problemas, y siempre busco implementar buenas prácticas de código. Me destaco en el trabajo en equipo y en el uso de metodologías ágiles tipo Scrum.
+Soy un desarrollador Full Stack con más de 2 años de experiencia, trabajando en múltiples lenguajes y proyectos. Tengo conocimientos avanzados en la configuración y funcionamiento de GitHub Actions, así como experiencia en testing con Jest y en pruebas E2E con Cypress y TypeScript. Me apasiona buscar y resolver problemas, y siempre busco implementar buenas prácticas de código. Me destaco en el trabajo en equipo y en el uso de metodologías ágiles tipo Scrum.
 
 
 
@@ -29,5 +29,4 @@ Soy un desarrollador full stack con más de 2 años de experiencia, trabajando e
 
 ## Trabajo Actual
 
-Actualmente, trabajo en **Devlabs**, donde he desarrollado habilidades de **trabajo en equipo** y experiencia en **aprendizaje e implementación de nuevas tecnologías**. También estoy colaborando en un proyecto de _React Native_ como **mobile developer**, bajo la mentoría de un **desarrollador senior de React Native**. Mi objetivo es seguir ganando experiencia en el **desarrollo mobile** y adoptar **buenas prácticas de código limpio**.
-
+Actualmente, soy desarrollador Full Stack en **DevLabs**, donde colaboro en múltiples proyectos innovadores. Mi rol incluye la creación de soluciones eficientes y escalables, especialmente en aplicaciones móviles con **React Native**, y en proyectos de integración de API y optimización de rendimiento. En este puesto, he generado múltiples **transactions** y **middleware de seguridad**, entre otras mejoras clave. Esta posición me ha permitido no solo afianzar mis habilidades técnicas, sino también aportar en el proceso de adopción de nuevas tecnologías y prácticas de desarrollo colaborativo.
