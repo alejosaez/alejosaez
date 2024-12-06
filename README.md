@@ -4,7 +4,7 @@
 
 
 ### Sobre Mí
-Soy un desarrollador Full Stack con más de 2 años de experiencia, trabajando en múltiples lenguajes y proyectos. Tengo conocimientos avanzados en la configuración y funcionamiento de GitHub Actions, así como experiencia en testing con Jest y en pruebas E2E con Cypress y TypeScript. Me apasiona buscar y resolver problemas, y siempre busco implementar buenas prácticas de código. Me destaco en el trabajo en equipo y en el uso de metodologías ágiles tipo Scrum.
+Soy un desarrollador Full Stack con 3 años de experiencia, trabajando en múltiples lenguajes y proyectos. Tengo conocimientos avanzados en la configuración y funcionamiento de GitHub Actions, así como experiencia en testing con Jest y en pruebas E2E con Cypress y TypeScript. Me apasiona buscar y resolver problemas, y siempre busco implementar buenas prácticas de código. Me destaco en el trabajo en equipo y en el uso de metodologías ágiles tipo Scrum.
 
 
 
