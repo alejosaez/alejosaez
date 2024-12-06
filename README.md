@@ -26,7 +26,11 @@ Soy un desarrollador Full Stack con 3 años de experiencia, trabajando en múlti
   - [Repositorio](https://github.com/alejosaez/ChallengeRNBack)
 - **Challenge React Native - Frontend**: Desarrollo de la interfaz y funcionalidades de una aplicación mobile en React Native.
   - [Repositorio](https://github.com/alejosaez/challengeRN-)
-
+ 
+- **Challenge React Native - Frontend**: Desarrollo de la interfaz y funcionalidades de una aplicación mobile Android y IOS.
+  - [Repositorio](https://github.com/alejosaez/gogameapp)
+- **Challenge React Native - Backend**: Implementación de la API y estructura backend en NestJS.
+  - [Repositorio](https://github.com/alejosaez/gogameappBack)
 ## Trabajo Actual
 
 Actualmente, soy desarrollador Full Stack en **DevLabs**, donde colaboro en múltiples proyectos innovadores. Mi rol incluye la creación de soluciones eficientes y escalables, especialmente en aplicaciones móviles con **React Native**, y en proyectos de integración de API y optimización de rendimiento. En este puesto, he generado múltiples **transactions** y **middleware de seguridad**, entre otras mejoras clave. Esta posición me ha permitido no solo afianzar mis habilidades técnicas, sino también aportar en el proceso de adopción de nuevas tecnologías y prácticas de desarrollo colaborativo.
