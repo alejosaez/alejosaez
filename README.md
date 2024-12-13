@@ -1,36 +1,33 @@
-## Hola soy Alejo Saez 👋
+## Hi, I'm Alejo Saez 👋
 
-![Blue   Yellow Gradient Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/b5b132b7-0f59-4121-8850-fd26bb9dfa35)
+![Blue Yellow Gradient Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/b5b132b7-0f59-4121-8850-fd26bb9dfa35)
 
+### About Me
+I'm a Full Stack developer with 3 years of experience, working with multiple languages and projects. I have advanced knowledge in setting up and working with GitHub Actions, as well as experience in testing with Jest and E2E testing with Cypress and TypeScript. I am passionate about problem-solving and always strive to implement good coding practices. I excel at teamwork and using agile methodologies like Scrum.
 
-### Sobre Mí
-Soy un desarrollador Full Stack con 3 años de experiencia, trabajando en múltiples lenguajes y proyectos. Tengo conocimientos avanzados en la configuración y funcionamiento de GitHub Actions, así como experiencia en testing con Jest y en pruebas E2E con Cypress y TypeScript. Me apasiona buscar y resolver problemas, y siempre busco implementar buenas prácticas de código. Me destaco en el trabajo en equipo y en el uso de metodologías ágiles tipo Scrum.
-
-
-
-## Habilidades
-- **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- **Frameworks y Librerías**: ![React](https://img.shields.io/badge/-React-blue) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![NestJS](https://img.shields.io/badge/-NestJS-red) ![React Native](https://img.shields.io/badge/-React%20Native-blue)
+## Skills
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **Frameworks and Libraries**: ![React](https://img.shields.io/badge/-React-blue) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![NestJS](https://img.shields.io/badge/-NestJS-red) ![React Native](https://img.shields.io/badge/-React%20Native-blue)
 - **Back-end**: ![Express](https://img.shields.io/badge/-Express-lightgrey) ![TypeORM](https://img.shields.io/badge/-TypeORM-orange) ![Sequelize](https://img.shields.io/badge/-Sequelize-blue) ![GraphQL](https://img.shields.io/badge/-GraphQL-pink)
-- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-orange) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-orange) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)
 
+## Featured Projects
 
-## Proyectos Destacados
+### Personal Projects
+- **E-commerce**: Full development of an e-commerce system.
+  - [Repository](https://github.com/alejosaez/e-commerce.git)
 
-### Proyectos Personales
-- **E-commerce**: Desarrollo completo de un sistema de comercio electrónico.
-  - [Repositorio](https://github.com/alejosaez/e-commerce.git)
+### Technical Challenges
+- **React Native - Backend Challenge**: Implementation of the API and backend structure for a mobile app built with React Native.
+  - [Repository](https://github.com/alejosaez/ChallengeRNBack)
+- **React Native - Frontend Challenge**: Development of the interface and functionalities for a mobile app built with React Native.
+  - [Repository](https://github.com/alejosaez/challengeRN-)
 
-### Pruebas Técnicas
-- **Challenge React Native - Backend**: Implementación de la API y estructura backend para una aplicación mobile en React Native.
-  - [Repositorio](https://github.com/alejosaez/ChallengeRNBack)
-- **Challenge React Native - Frontend**: Desarrollo de la interfaz y funcionalidades de una aplicación mobile en React Native.
-  - [Repositorio](https://github.com/alejosaez/challengeRN-)
- 
-- **Challenge React Native - Frontend**: Desarrollo de la interfaz y funcionalidades de una aplicación mobile Android y IOS.
-  - [Repositorio](https://github.com/alejosaez/gogameapp)
-- **Challenge React Native - Backend**: Implementación de la API y estructura backend en NestJS.
-  - [Repositorio](https://github.com/alejosaez/gogameappBack)
-## Trabajo Actual
+- **React Native - Frontend Challenge**: Development of the interface and functionalities for an Android and iOS mobile app.
+  - [Repository](https://github.com/alejosaez/gogameapp)
+- **React Native - Backend Challenge**: Implementation of the API and backend structure in NestJS.
+  - [Repository](https://github.com/alejosaez/gogameappBack)
 
-Actualmente, soy desarrollador Full Stack en **DevLabs**, donde colaboro en múltiples proyectos innovadores. Mi rol incluye la creación de soluciones eficientes y escalables, especialmente en aplicaciones móviles con **React Native**, y en proyectos de integración de API y optimización de rendimiento. En este puesto, he generado múltiples **transactions** y **middleware de seguridad**, entre otras mejoras clave. Esta posición me ha permitido no solo afianzar mis habilidades técnicas, sino también aportar en el proceso de adopción de nuevas tecnologías y prácticas de desarrollo colaborativo.
+## Current Work
+
+Currently, I am a Full Stack Developer at **DevLabs**, where I collaborate on multiple innovative projects. My role includes creating efficient and scalable solutions, especially for mobile applications with **React Native**, and working on API integration projects and performance optimization. In this role, I have generated multiple **transactions** and **security middleware**, among other key improvements. This position has allowed me to not only strengthen my technical skills but also contribute to the adoption of new technologies and collaborative development practices.
